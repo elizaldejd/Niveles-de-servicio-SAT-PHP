@@ -1,0 +1,115 @@
+
+body{
+
+background-color:;
+margin:0px;
+}
+div label {
+  width: 100px;
+  float: left;
+}
+
+
+div input{
+width:200px;
+height:25px;
+}
+
+div {
+
+  margin: 2em 0;
+
+}
+
+#login form{
+
+margin-left:450px;
+
+}
+
+#login{
+
+width:100%;
+color:white;
+font-family:Century Gothic;
+padding:30px;
+margin-top:150px;
+background-color:#146EB4;
+
+}
+
+a{
+
+color:white;
+padding:10px;
+
+}
+
+a:hover{
+
+color:white;
+
+}
+
+input:hover{
+
+box-shadow:1px 2px 5px 2px white;
+
+}
+
+input:focus{
+
+box-shadow:1px 2px 10px 2px white;
+}
+
+
+#boton{
+
+overflow:visible;
+margin-left:150px;
+background:#0099CC;
+border-radius:5px;
+height:30px;
+width:100px;
+
+}
+
+#boton:focus{
+
+box-shadow:0px 0px 0px 0px #99FF00;
+
+}
+
+#error{
+
+
+color:red;
+margin-left:500px;
+
+}
+
+#menubajo{
+
+font-weight:bold;
+padding-left:0px;
+margin-left:450px;
+font-family:Century Gothic;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

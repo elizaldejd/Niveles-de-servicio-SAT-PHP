@@ -1,0 +1,37 @@
+*{
+
+margin:0px;
+list-style:none;
+text-decoration:none;
+font-size:15px;
+font-family:calibri;
+padding-bottom:10px;
+}
+
+.menu{
+
+top:150px;
+position:fixed;
+text-transform:1ms;
+background-color:red;
+width:150px;
+margin-left:-145;
+
+  -webkit-transition:all 0.1s linear;  /* Chrome y Safari */
+  -moz-transition:all 0.1s linear;  /* Mozilla Firefox */
+  transition:all 0.1s linear;  /* W3C */
+
+}
+
+
+.menu:hover{
+
+margin-left:0px;
+
+}
+
+a:hover{
+
+background-color:white;
+}
+

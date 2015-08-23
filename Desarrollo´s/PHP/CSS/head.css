@@ -1,0 +1,61 @@
+*{
+
+font-family:Century Gothic;
+list-style:none;
+text-decoration:none;
+margin:0 auto;
+}
+
+#menu{
+
+width:900px;
+left:50%;
+margin-left:-450px;
+position:fixed;
+
+}
+.nav > li{
+
+float:left;
+
+}
+
+.nav li a{
+
+height:60px;
+min-width:200px;
+background-color:#146EB4;
+color:#fff;
+display:block;
+display:table-cell;
+vertical-align:middle;
+text-align:center;
+
+}
+
+.nav li a:hover {
+
+background:white;
+color:black;
+border-bottom:solid #146EB4;
+
+}
+
+.nav li ul {
+
+display:none;
+position:absolute;
+
+}
+
+.nav li:hover > ul {
+
+display:block;
+
+}
+
+
+
+
+
+

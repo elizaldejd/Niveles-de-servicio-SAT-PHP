@@ -1,0 +1,35 @@
+*{
+margin:0px;
+}
+.contenedor{
+position:fixed;
+width:1000px;
+left:50%;
+margin-left:-500px;
+background-color:gray;
+}
+
+.logo_sat{
+height:100px;
+}
+.logo_mainbit{
+height:100px;
+left:0px;
+}
+.logos label{
+text-align:center;
+font-size:20px;
+}
+
+.datos{
+background-color:red;
+}
+
+.datos table tr td{
+
+background-color:green;
+}
+
+.datos table{
+width:900px;
+}
